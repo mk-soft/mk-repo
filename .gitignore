@@ -215,7 +215,3 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
-
-#NuGet
-packages
-!packages/repositories.config
